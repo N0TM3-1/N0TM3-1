@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- I'm a beginner programmer and aspiring game developer
+- I'm currently learning the Defold game engine
+- Pronouns: He/Him
 <!--
 **N0TM3-1/N0TM3-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
