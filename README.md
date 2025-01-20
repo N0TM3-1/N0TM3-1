@@ -6,4 +6,4 @@ I'm a high school student, currently learning the Godot game engine.
 - I spend my free time with my friends or practicing my hobbies
 - Hobbies: Gaming, Game Development, Robotics
 - Age: 16
-- Pronouns: He/Him
+- Pronouns: He/Him/His
