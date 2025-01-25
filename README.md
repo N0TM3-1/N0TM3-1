@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a high school student, currently learning the Godot game engine.
+I'm a high school student, currently developing Time Harvest for [Hack Club Juice](https://juice.hackclub.com).
 ### Some things about me:
 - Living in Romania
 - I can speak Romanian, English and some Russian
