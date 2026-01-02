@@ -46,12 +46,6 @@ I'm a **game developer** and **web tinkerer** who enjoys building systems from s
 * Automation & workflows
 * Hardware projects (Arduino / ESP)
 
----
-
-## 📈 Hackatime Stats
-
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=850\&api_domain=hackatime.hackclub.com\&custom_title=Hackatime+Stats\&layout=compact\&cache_seconds=0\&langs_count=8\&theme=transparent)
 
 ---
